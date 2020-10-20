@@ -1,1 +1,3 @@
-# lavinske.github.io
+# LAVINSKE
+
+## Mau coba test hosting DNS Check sendiri
